@@ -46,6 +46,11 @@ defaultContentLanguageInSubdir = false
     name = "联系我"
     url = "/contact/"
     weight = 4
+  
+  [[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5
 
 [params]
     since = 2016
