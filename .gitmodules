@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ximuli/ximuli.github.io.git
+	branch = master
+[submodule "themes/LeaveIt"]
+	path = themes/LeaveIt
+	url = https://github.com/liuzc/LeaveIt.git
+	branch = master
