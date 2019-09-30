@@ -1,10 +1,10 @@
 ---
 title: JavaScript中的递增和递减操作符
-date: 2018-1-4
+date: 2018-01-04
 categories: 
 - 技术
 tags: 
-    - JavaScript
+- JavaScript
 ---
 
 > 递增和递减操作符属于**一元操作符**（只能操作一个值的操作符），各有两个版本：前置型和后置型。

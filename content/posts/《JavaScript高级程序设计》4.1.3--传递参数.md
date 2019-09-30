@@ -1,6 +1,6 @@
 ---
 title: 《JavaScript高级程序设计》4.1.3--传递参数
-date: 2018-1-10
+date: 2018-01-10
 categories: 
 - 技术
 tags: 

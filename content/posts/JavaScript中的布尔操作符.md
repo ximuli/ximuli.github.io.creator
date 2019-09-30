@@ -1,10 +1,10 @@
 ---
 title: JavaScript中的布尔操作符
-date: 2018-1-7
+date: 2018-01-07
 categories: 
 - 技术
 tags: 
-    - JavaScript
+- JavaScript
 ---
 
 # 布尔操作符
