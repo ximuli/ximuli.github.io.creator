@@ -2,21 +2,16 @@
 title: HTML语义化
 date: 2019-03-06 21:39:32
 categories:
-- 技术
-tags: 
-- HTML
-- 语义化
+- interview
 ---
-
-> 本文最初于 2018-09-21 发布于 [知乎](https://zhuanlan.zhihu.com/p/45116688) ，后在 [《重学前端》](http://gk.link/a/102o0) 专栏的学习中，重新复习整理，发布于 [Github](https://github.com/ximuli/FED) 上，并计划写一系列前端学习相关的文章。欢迎 star 。
-
-# HTML 语义化
 
 简单来说，我们可以理解为：用正确的标签做正确的事情。
 
 例如：
 
-段落用 p 标签，标题用 h 系列标签，边栏用 aside 标签，主要内容用 main 标签。**正确使用语义标签可以带来很多好处。**
+段落用 p 标签，标题用 h 系列标签，边栏用 aside 标签，主要内容用 main 标签。
+
+**正确使用语义标签可以带来很多好处。**
 
 <!-- more -->
 
@@ -106,8 +101,6 @@ footer 中可以包含此元素。
 </figure>
 ```
 
-
-
 `<dfn>`
 
 表示术语的一个定义。
@@ -117,8 +110,6 @@ footer 中可以包含此元素。
     <dfn id="def-internet">The Internet</dfn> is a global system of interconnected networks that use the Internet Protocol Suite (TCP/IP) to serve billions of users worldwide.
 </p>
 ```
-
-
 
 `<nav>` `<ol>` `<ul>`
 
@@ -131,7 +122,6 @@ footer 中可以包含此元素。
 `<code>` 表示一段计算机代码。
 
 
-
 # 总结
 
 对于语义类标签的使用也许会带来一些争议，我们应该遵循的原则是：
@@ -141,17 +131,14 @@ footer 中可以包含此元素。
 > 用对比不用好，不用比用错好。
 
 
-
 提示：
 
 你可以在百度或者谷歌搜索中输入「标签名称」+「MDN」这两个关键字来查看更加专业和详细的解释。
 
 
-
 另外安利一个 HTML 标签的学习链接：
 
 [HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/)
-
 
 
 （完）
